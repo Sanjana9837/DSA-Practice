@@ -1,2 +1,3 @@
-# DSA-Practice
-c programs for practicing Data Structures and Algorithms
+# DSA-in-C
+Implementation of Data Structures and Algorithms in C
+
