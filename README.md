@@ -1,3 +1,14 @@
-# DSA-in-C
-Implementation of Data Structures and Algorithms in C
+# Data Structures in C
 
+This project demonstrates basic data structures implemented in C.
+
+## Implementations
+- Stack
+- Queue
+- Linked List
+
+## Features
+Menu driven programs for insertion, deletion and display operations.
+
+## Language
+C Programming
